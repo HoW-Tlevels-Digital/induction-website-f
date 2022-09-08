@@ -1,5 +1,5 @@
-<<<<<<< Updated upstream
-Testing
+@@ -2,3 +2,4 @@ Coca-Cola Page
 =======
-testing
->>>>>>> Stashed changes
+Coke is one of the most popular drinks in the world with a variety of different types such as diet coke, cherry flavoured coke, etc.
+
+Coca-Cola was founded on the 29th January 1892 in Atlanta, Georgia, United States.
